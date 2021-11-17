@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "390ca2d0-3f9b-2968-14d2-b2e32bc7f62d",
+      "a3082410-9898-e73b-f520-572a33c853c7",
+      "47018e26-4cba-b02b-e293-d7dace64e90a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "PE for ME",
+  "course_description": "The sensing, thinking, moving body is the basis of our experience in the world; it is the very foundation on which cognitive intelligence is built. Physical Intelligence, then, is the inherent ability of the human organism to function in extraordinary accord with its physical environment. This class--a joint offering from the Department of Athletics, Physical Education and Recreation (DAPER) and Department of Mechanical Engineering (ME) for both PE and academic credit--uses the MIT gymnastics gym as a laboratory to explore Physical Intelligence as applied to Mechanical Engineering and design. Readings, discussions and experiential learning introduce various dimensions of Physical Intelligence which students then apply to the design of innovative exercise equipment.\n",
+  "department_numbers": [
+    "PE"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "PE.920",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
